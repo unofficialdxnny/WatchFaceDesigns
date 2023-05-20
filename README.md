@@ -9,5 +9,5 @@ The Designs will go Newest - Oldest
 # 1 | InfoGrid
 
 <p allign="center">
-<img src="./Images/InfoGrid_1684626648431.png" width="25">
+<img src="./Images/InfoGrid_1684626648431.png" width="100">
 </p>
